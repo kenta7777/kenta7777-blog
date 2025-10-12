@@ -1,4 +1,4 @@
-# Kenta7777-blog
+# kenta7777-blog
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
