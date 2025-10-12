@@ -78,6 +78,7 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {href: 'https://zenn.dev/hasken3765', label: 'Zenn', position: 'right'},
       ],
     },
     prism: {
