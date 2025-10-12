@@ -4,6 +4,8 @@ title: ブログで使う静的サイトジェネレータを Next.js から Doc
 tags: [dialy]
 ---
 
+`{/* truncate */}`
+
 久しぶりのブログ。
 
 今までブログで静的サイトジェネレータとして Next.js を使っていたが、勉強がてら別のものを触ってみようと思い、[Docusaurus](https://docusaurus.io/) に乗り換えた。
