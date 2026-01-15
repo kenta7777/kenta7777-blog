@@ -1,5 +1,5 @@
 ---
-slug: review-of-2024-and-aspirations-of-2025
+slug: review-of-2025-and-aspirations-of-2026
 title: 2025年の振り返りと2026年の抱負
 tags: [dialy]
 ---
